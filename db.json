@@ -1,3 +1,10 @@
 {
-    "food_items":[]
+    "food_items":[{
+        
+            "id": 7,
+            "name": "Cammi Pimbley",
+            "age": 63,
+            "email": "cpimbley6@nyu.edu"
+          
+    }]
 }

@@ -1,10 +1,123 @@
-{
-    "food_items":[{
-        
-            "id": 7,
-            "name": "Cammi Pimbley",
-            "age": 63,
-            "email": "cpimbley6@nyu.edu"
-          
-    }]
+{     "admin_detials":[
+         {
+            "user_name":"rushikesh moon",
+            "password":"123456"
+
+         }
+
+      ],
+    "food_items": [
+        {
+          "id": "1669838678905pizza",
+          "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "title": "pizza",
+          "description": "veg pizza",
+          "price": 300,
+          "rating": 4
+        },
+        {
+          "id": "1669838716248poha",
+          "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "title": "poha",
+          "description": "tari phoha",
+          "price": 60,
+          "rating": 6
+        },
+        {
+          "id": "1669838857736kabab",
+          "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "title": "kabab",
+          "description": "chicken kabab",
+          "price": 4000,
+          "rating": 9
+        },
+        {
+          "id": "1669838888488egg",
+          "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+          "title": "egg",
+          "description": "boiled egg",
+          "price": 50,
+          "rating": 9
+        },
+        {
+          "id": "1669838929400sandwitch",
+          "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "title": "sandwitch",
+          "description": "veg sandwitch",
+          "price": 105,
+          "rating": 6
+        },
+        {
+          "id": "1669839006128ice cream cone",
+          "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "title": "ice cream cone",
+          "description": "ice cream cone",
+          "price": 40,
+          "rating": 7
+        },
+        {
+          "id": "1669839050166dosa plate",
+          "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "title": "dosa plate",
+          "description": "all items mixed",
+          "price": 0,
+          "rating": 0
+        },
+        {
+          "id": "1669840605552cutlet",
+          "image": "https://media.istockphoto.com/id/1169098788/photo/masala-vada-spicy-fried-fritters.jpg?s=612x612&w=0&k=20&c=Rp_h-1c3vz0ldTZfEnsQ6mlTfhQR50JBeHvLCu4rj0E=",
+          "title": "cutlet",
+          "description": "crips cutlet fresh hried",
+          "price": 400,
+          "rating": 9
+        },
+        {
+          "id": "1669840633344fish ",
+          "image": "https://media.istockphoto.com/id/482121467/photo/indian-thali-with-fish.jpg?s=612x612&w=0&k=20&c=VN1wILU7RRC-ey9llvVpB7-YGemIz4LZfv3pO5g8qd4=",
+          "title": "fish ",
+          "description": "fish fried",
+          "price": 350,
+          "rating": 8
+        },
+        {
+          "id": "1669840676945chicken lolopop",
+          "image": "https://media.istockphoto.com/id/1130325906/photo/crispy-onion-bhajis-with-sweet-chilli-sauce-on-white-wooden-board.jpg?s=612x612&w=0&k=20&c=1Yd1me6XDCF_C6IAM0Y19EbqIjgFUfnFtEre8hw2tuo=",
+          "title": "chicken lolopop",
+          "description": "fresh chicken loli pop",
+          "price": 870,
+          "rating": 9
+        },
+        {
+          "id": "1669840713424chucken curry",
+          "image": "https://media.istockphoto.com/id/1254597620/photo/chicken-curry-or-masala.jpg?s=612x612&w=0&k=20&c=wrAuFO_WnJfb4zBAGTdh9pmzLcR-Luxl6F8L-iwR7CI=",
+          "title": "chucken curry",
+          "description": "chicken curry",
+          "price": 500,
+          "rating": 12
+        },
+        {
+          "id": "1669840742472mutton",
+          "image": "https://media.istockphoto.com/id/890073444/photo/bhuna-mutton-bhuna-gosht-indian-lamb-curry.jpg?s=612x612&w=0&k=20&c=uybDz2SKupAk6QEezZEvH0YCYLqezz3Toq3PkKuvGWI=",
+          "title": "mutton",
+          "description": "mutton curry",
+          "price": 980,
+          "rating": 120
+        },
+        {
+          "id": "1669840773485gul;ab jamun",
+          "image": "https://media.istockphoto.com/id/1057815794/photo/gulab-jamun-indian-sweet-dish.jpg?s=612x612&w=0&k=20&c=jiAI1LE9S7DasgBpnPKxACQX_0o6n4BBIPUL9VRjnZU=",
+          "title": "gul;ab jamun",
+          "description": "sweets",
+          "price": 40,
+          "rating": 5
+        },
+        {
+          "id": "1669840807432upma",
+          "image": "https://media.istockphoto.com/id/1324029486/photo/curd-rice-with-pomegranate-cilantro-mustard-seeds-ginger-indian-cuisine.jpg?s=612x612&w=0&k=20&c=4x_EYgpDhf7EuIHOq0_tRWxMYMOye2pyXEu3TT2Daso=",
+          "title": "upma",
+          "description": "fresh fried upma",
+          "price": 150,
+          "rating": 6
+        }
+      ]
 }
